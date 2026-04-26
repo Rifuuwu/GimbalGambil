@@ -84,8 +84,8 @@ LCD menampilkan:
 
 ## ▶️ Link Wokwi dan Video Demo
 
-Wokwi      : https://wokwi.com/projects/461152748931069953
-Video Demo : https://youtu.be/zznkCxK1MpA
+* Wokwi      : https://wokwi.com/projects/461152748931069953
+* Video Demo : https://youtu.be/zznkCxK1MpA
 
 ---
 

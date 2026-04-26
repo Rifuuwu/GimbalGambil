@@ -82,15 +82,10 @@ LCD menampilkan:
 
 ---
 
-## ▶️ Cara Menjalankan (Wokwi)
+## ▶️ Link Wokwi dan Video Demo
 
-1. Buka https://wokwi.com
-2. Buat project baru Arduino Uno
-3. Copy isi:
-
-   * `code.cpp` ke bagian kode
-   * `diagram.json` ke konfigurasi diagram
-4. Jalankan simulasi
+Wokwi      : https://wokwi.com/projects/461152748931069953
+Video Demo : https://youtu.be/zznkCxK1MpA
 
 ---
 
